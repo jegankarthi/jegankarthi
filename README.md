@@ -8,11 +8,11 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **jegankjack121@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velava1411&label=Profile%20views&color=0e75b6&style=flat" alt="jegamljack121" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jegankjack121&label=Profile%20views&color=0e75b6&style=flat" alt="jegankjack121" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velava1411" alt="jegamljack121" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jegankjack121" alt="jegamljack121" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/velava1411" target="blank"><img src="https://img.shields.io/twitter/follow/velava1411?logo=twitter&style=for-the-badge" alt="jegamljack121" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jegankjack121" target="blank"><img src="https://img.shields.io/twitter/follow/jegankjack121?logo=twitter&style=for-the-badge" alt="jegankjack121" /></a> </p>
 
 
 
@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/jaganpugal/?igshid=ZDdkNTZiNTM%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jaganpugal/?igshid=ZDdkNTZiNTM%3D" height="30" width="40" /></a>
 </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/velava1411.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/jegankjack121.png" alt="TryHackMe">
 
 
 
