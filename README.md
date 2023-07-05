@@ -3,9 +3,13 @@
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif" width="400"/>
 
 - 🔭 I'm currently studying as a full stack developer at RVS CAS
+- <br/>
 - 👯 I’m looking to collaborate with web development projects
+- <br/>
 - ⚡ Fun fact: I love to travel and playing games
+- <br/>
 - 💬 Ask me about anything, I am happy to help;
+- <br/>
 - 📫 How to reach me **jegankjack121@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jegankjack121&label=Profile%20views&color=0e75b6&style=flat" alt="jegankjack121" /> </p>
